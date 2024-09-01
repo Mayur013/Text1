@@ -70,6 +70,14 @@
 
 * # View Available Books
   ### 1. Test for View books which has copy_count >0
+  here test case fails because there is no production code for ViewAvailableBook class
+  ![image](https://github.com/user-attachments/assets/dc0536ec-ac9e-4d93-997d-c993130905e6)
+
+  after adding production code for ViewAvailableBook class, it return books with copy_count >0
+  so test passes
+  ![image](https://github.com/user-attachments/assets/00b36835-ce52-4185-980c-fdd9bda72d61)
+
+
   
 
 
